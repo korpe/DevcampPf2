@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails DevcampPf2: production" uuid="1f057fa3-c943-4cb6-924d-266f0937c677">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>DevcampPf2</user-name>
+    </data-source>
+    <data-source name="Rails DevcampPf2: test" uuid="f32faf66-2290-4a97-b185-db19a8bc4646">
+      <database-info product="PostgreSQL" version="9.6.5" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <introspection-schemas>DevcampPf2_test:public</introspection-schemas>
+    </data-source>
+    <data-source name="Rails DevcampPf2: development" uuid="c4c6a3ab-c8c6-4d26-8a47-d3b12284413b">
+      <database-info product="PostgreSQL" version="9.6.5" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>pekkakorhonen</user-name>
+      <introspection-schemas>DevcampPf2_development:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>

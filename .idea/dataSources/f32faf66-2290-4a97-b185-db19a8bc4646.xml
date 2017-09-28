@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="Rails DevcampPf2: test">
+  <database-model serializer="dbm" rdbms="POSTGRES" format-version="4.4">
+    <root id="1"/>
+    <database id="2" parent="1" name="DevcampPf2_test">
+      <ObjectId>17478</ObjectId>
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </database>
+    <database id="3" parent="1" name="postgres">
+      <ObjectId>12669</ObjectId>
+    </database>
+    <database id="4" parent="1" name="pekkakorhonen">
+      <ObjectId>16385</ObjectId>
+    </database>
+    <database id="5" parent="1" name="DevcampPortfolio_development">
+      <ObjectId>16386</ObjectId>
+    </database>
+    <database id="6" parent="1" name="DevcampPortfolio_test">
+      <ObjectId>16387</ObjectId>
+    </database>
+    <database id="7" parent="1" name="GeneratorApp_development">
+      <ObjectId>16437</ObjectId>
+    </database>
+    <database id="8" parent="1" name="GeneratorApp_test">
+      <ObjectId>16438</ObjectId>
+    </database>
+    <database id="9" parent="1" name="RoutingApp_development">
+      <ObjectId>16607</ObjectId>
+    </database>
+    <database id="10" parent="1" name="RoutingApp_test">
+      <ObjectId>16608</ObjectId>
+    </database>
+    <database id="11" parent="1" name="SqlDive_development">
+      <ObjectId>16976</ObjectId>
+    </database>
+    <database id="12" parent="1" name="SqlDive_test">
+      <ObjectId>16977</ObjectId>
+    </database>
+    <database id="13" parent="1" name="Bootstr4Testi_development">
+      <ObjectId>17459</ObjectId>
+    </database>
+    <database id="14" parent="1" name="Bootstr4Testi_test">
+      <ObjectId>17460</ObjectId>
+    </database>
+    <database id="15" parent="1" name="DevcampPf2_development">
+      <ObjectId>17477</ObjectId>
+    </database>
+    <schema id="16" parent="2" name="public">
+      <ObjectId>2200</ObjectId>
+      <IntrospectionTimestamp>2017-09-21.10:05:01.780</IntrospectionTimestamp>
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="17" parent="2" name="pg_catalog">
+      <ObjectId>11</ObjectId>
+    </schema>
+    <schema id="18" parent="2" name="pg_toast">
+      <ObjectId>99</ObjectId>
+    </schema>
+    <schema id="19" parent="2" name="pg_temp_1">
+      <ObjectId>11848</ObjectId>
+    </schema>
+    <schema id="20" parent="2" name="pg_toast_temp_1">
+      <ObjectId>11849</ObjectId>
+    </schema>
+    <schema id="21" parent="2" name="information_schema">
+      <ObjectId>12381</ObjectId>
+    </schema>
+  </database-model>
+</dataSource>

@@ -13,7 +13,7 @@
 
 ```ruby
    def mainio_esimerkkini
-     puts "(hö, hö , hö's mö in swedish) equals (heinäsaari,heinäsaari,heinäsaaren morsian in finnish)"
+     puts "(hö ö, hö ö, hö ö's mö in swedish) equals (heinäsaari,heinäsaari,heinäsaaren morsian in finnish)"
    end
    ```
 

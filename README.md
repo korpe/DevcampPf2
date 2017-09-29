@@ -1,23 +1,24 @@
 # Devcamp Portfolio App test
 
-Vähän sisältöä
+> Tämä on RoR 5 -sovellus jolla käyttäjä luo omat portfolionsa.
 
-Things you may want to cover:
+### Ominaisuudet
 
-* Ruby version
+- Reaaliaikainen chat engine kommentointiin
+- Blogi
+- Portfolio
+- Drag and drop interface
 
-* System dependencies
+### Koodiesimerkki
 
-* Configuration
+```ruby
+   def mainio_esimerkkini
+     puts "(hö, hö , hö's mö in swedish) equals (heinäsaari,heinäsaari,heinäsaaren morsian in finnish)"
+   end
+   ```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```javascript
+def mainio_esimerkkini
+    alert('Hi there')
+end
+```

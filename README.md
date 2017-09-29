@@ -18,7 +18,5 @@
    ```
 
 ```javascript
-def mainio_esimerkkini
     alert('Hi there')
-end
 ```

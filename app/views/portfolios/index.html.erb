@@ -1,6 +1,6 @@
 <h1>Salkun osiot</h1>
 
-<%= link_to "Luo uusi osio", new_portfolio_path %>
+<%= link_to "Luo uusi osio", new_portfolio_path if logged_in?(:site_admin) %>
 
 
 <%= render partial: 'portfolio_item', collection: @portfolio_items %>

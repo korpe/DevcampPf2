@@ -60,3 +60,7 @@ gem 'devise', '~> 4.3'
 gem 'pjk_view_tool', git: 'https://github.com/korpe/pjk_view_tool'
 
 gem 'petergate', '~> 1.8'
+
+gem 'font-awesome-rails'
+
+gem 'kaminari'

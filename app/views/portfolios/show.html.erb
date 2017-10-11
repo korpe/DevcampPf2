@@ -1,13 +1,24 @@
-<%= image_tag @portfolio_item.main_image %>
+<div class="container">
+  <div class="row">
+    <div class="col-md-7">
+      <%= image_tag @portfolio_item.main_image %>
+    </div>
+    <div class="col-md-5">
+      <h1><%= @portfolio_item.title %></h1>
 
-<h1><%= @portfolio_item.title %></h1>
+      <hr>
 
-<em><%= @portfolio_item.subtitle %></em>
+      <em><%= @portfolio_item.subtitle %></em>
 
-<p><%= @portfolio_item.body %></p>
+      <p><%= @portfolio_item.body %></p>
 
-<h2>Käytössä olevat teknologiat:</h2>
+      <hr>
 
-<% @portfolio_item.technologies.each do |t| %>
-  <p><%= t.name %></p>
-<% end %>
+      <h3>Käytössä olevat teknologiat:</h3>
+
+      <% @portfolio_item.technologies.each do |t| %>
+          <p><%= t.name %></p>
+      <% end %>
+    </div>
+  </div>
+</div>

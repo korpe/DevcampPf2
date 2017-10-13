@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d9a7e85-62d8-4bfc-9446-cd331d19bbcb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/portfolios/_technology_fields.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/DevcampPf2.iml" afterPath="$PROJECT_DIR$/.idea/DevcampPf2.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
@@ -12,7 +11,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/portfolio.rb" afterPath="$PROJECT_DIR$/app/models/portfolio.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/blogs/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/blogs/_form.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/portfolios/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/portfolios/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/portfolios/show.html.erb" afterPath="$PROJECT_DIR$/app/views/portfolios/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/portfolios/_technology_fields.html.erb" afterPath="$PROJECT_DIR$/app/views/portfolios/_technology_fields.html.erb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -625,12 +624,12 @@
       <workItem from="1507840175530" duration="78000" />
       <workItem from="1507871303433" duration="1049000" />
       <workItem from="1507894849523" duration="4487000" />
-      <workItem from="1507917600365" duration="4118000" />
+      <workItem from="1507917600365" duration="4306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231800000" />
+    <option name="totallyTimeSpent" value="231988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="636" y="23" width="619" height="748" extended-state="0" />

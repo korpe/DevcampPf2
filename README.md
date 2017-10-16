@@ -11,11 +11,6 @@
 
 ### Koodiesimerkki
 
-```ruby
-   def mainio_esimerkkini
-     puts "(hö ö, hö ö, hö ö's mö in swedish) equals (heinäsaari,heinäsaari,heinäsaaren morsian in finnish)"
-   end
-   ```
 
 ```javascript
     alert('Hi there')

@@ -24,5 +24,5 @@ module PagesHelper
   end
 end
 
-"RoRNewsandNotes: RT @_rails: Add accept-charset to the output of form_with in JS guide [ci skip]  <a href=https://t.co/bELCDIdK1b target='_blank'>https://t.co/bELCDIdK1b</a>. #rails #rubyonrails"
+
 

@@ -45,10 +45,10 @@
         <%= f.fields_for :technologies do |technology_form| %>
           <%= render 'technology_fields', f: technology_form %>
         <% end %>
-      </div>
-        <%= link_to_add_association 'Add Technology', f, :technologies %>
-      <div>
 
+        <div>
+          <%= link_to_add_association 'Add Technology', f, :technologies %>
+        </div>
       </div>
 
 
